@@ -1,0 +1,19 @@
+O comando
+
+>>> count += 1
+
+é igual se fizesse:
+
+>>> count = count + 1
+
+######################################
+
+Para escrever de trás para frente, pode-se utilizar o comando a seguir:
+
+>>> print variavel_srt[::-1]
+
+Para escrever caracteres especificos, tipo da terceira letra até a quinta, pode-se utilizar uma sintaxe parecida com a da anterior:
+
+>> print variavel_srt[2:4]
+
+Onde a primeira letra é referenciado como o numero 0 (zero) dentro do colchete.
